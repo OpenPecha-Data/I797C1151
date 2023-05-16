@@ -1,0 +1,19 @@
+id: I797C1151
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:32.915817
+last_modified: 2023-01-04 11:29:32.915832
+source_metadata:
+  collections:
+  - Amdo Geshe Jampal Rolwé Lodrö
+  - Works of Tibetan Masters
+bases:
+  BCE3:
+    title: 'The Jewelled Garland: An Aspiration for the Spread of the Teachings of
+      the Omniscient Father and Son, Masters of the Teachings of the Ancient Translations'
+    base_file: BCE3.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
